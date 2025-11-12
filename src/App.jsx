@@ -1,12 +1,12 @@
 import './App.css'
-import Search from "./Search"
+import WeatherApp from './WeatherApp'
 
 
 function App() {
 
   return (
     <>
-      <Search/>
+      <WeatherApp/>
     </>
   )
 }

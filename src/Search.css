@@ -1,6 +1,7 @@
 .Searchbox{
     text-align: center;
-    color: lightblue;
+    color: rgb(27, 54, 82);
+    padding-bottom: 25px;
 }
 
 body{
